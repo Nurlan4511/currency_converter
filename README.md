@@ -11,7 +11,9 @@ Before you start, ensure you have the following prerequisites:
 * Text editor.
 ### Instalation
 1. Clone the repository:
-`https://github.com/Nurlan4511/currency_converter.git`
+
+`git clone https://github.com/Nurlan4511/currency_converter.git`
+
 2. Run the page (index.html)
 ## File structure
 * ├── index.html # Main file
